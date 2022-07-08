@@ -1,0 +1,14 @@
+{
+  "name": "context",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "paulopompeu <pompeutoledo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prettier": "prettier --write './**'"
+  },
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
+}

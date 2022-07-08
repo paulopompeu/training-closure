@@ -1,0 +1,17 @@
+# Unsupported filetypes
+*.gif
+*.lock
+*.log
+*.png
+*.sh
+*.snap
+*.sql
+*.svg
+*.toml
+*.sh
+.env*
+.gitignore
+.npmrc
+.nvmrc
+.prettierignore
+
